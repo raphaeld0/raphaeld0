@@ -4,7 +4,7 @@
 
 Hi! I'm Raphael de Sousa Caçador Dias, an 18-year-old from Rio de Janeiro, Brazil.
 I completed high school at IFF with a technical degree in Chemistry and I'm currently studying Information Systems at UFF.
-I'm passionate about technology and spend my free time improving my programming skills.
+I'm passionate about technology and constantly work on improving my programming skills. Currently, I'm studying Node.js and React, and also exploring some concepts in Java.
 Here on GitHub, I share my projects to track my growth and contribute to the community.
 
 <p align="left">
@@ -25,8 +25,6 @@ Here on GitHub, I share my projects to track my growth and contribute to the com
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 <br/>
