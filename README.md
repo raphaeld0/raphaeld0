@@ -35,15 +35,7 @@ Here on GitHub, I share my projects to track my growth and contribute to the com
 ### 📊 Statistics
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=raphaeld0&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
-  />
-
-  <img 
+    <img 
     align="left" 
     alt="Top Languages" 
     height="200" 
