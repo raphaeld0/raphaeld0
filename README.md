@@ -3,7 +3,7 @@
 
 
 Hi! I'm Raphael de Sousa Caçador Dias, an 18-year-old from Rio de Janeiro, Brazil.
-I completed high school at IFF with a technical degree in Chemistry and I'm currently studying Information Systems at UFF.
+I completed high school at IFF with a technical degree in Chemistry.
 I'm passionate about technology and constantly work on improving my programming skills. Currently, I'm studying Node.js and React, and also exploring some concepts in Java.
 Here on GitHub, I share my projects to track my growth and contribute to the community.
 
