@@ -29,14 +29,3 @@ Here on GitHub, I share my projects to track my growth and contribute to the com
 
 <br/>
 <br/>
-
-### 📊 Statistics
-
-<p>
-    <img 
-    align="left" 
-    alt="Top Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaeld0&theme=tokyonight&layout=compact&custom_title=Top%20Languages&langs_count=9" 
-  />
-</p>
