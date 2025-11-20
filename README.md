@@ -5,7 +5,7 @@ Hi! I'm Raphael Dias, from Rio de Janeiro, Brazil.
 I completed high school at IFF with a technical degree in Chemistry.
 I'm passionate about technology and always working to improve my skills.
 
-I study Information Systems at UF, and I’ve worked with Node.js, React, and PHP. I'm also learning some game development concepts.
+I study Information Systems at UFF, and I’ve worked with Node.js, React, and PHP. I'm also learning some game development concepts.
 
 Here on GitHub, I share my projects to track my growth and contribute to the community.
 
