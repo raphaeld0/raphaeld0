@@ -1,8 +1,8 @@
 # 👨🏽‍💻 Raphael Dias
-**`Fullstack Developer`**
+**`Developer`**
 
 Hi! I'm Raphael Dias, from Rio de Janeiro, Brazil.
-I completed high school at IFF with a technical degree in Chemistry.
+I am currently studying Information Systems at UFF and previously earned a technical degree in Informatics from IFF.
 I'm passionate about technology and always working to improve my skills.
 
 I study Information Systems at UFF, and I’ve worked with Node.js, React, and PHP. I'm also learning some game development concepts.
