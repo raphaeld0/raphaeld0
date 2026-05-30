@@ -13,7 +13,7 @@
   <legend align="left"><h3>Sobre Mim</h3></legend>
 
   <em>
-Sou uma desenvolvedor Back-End e estudante do 2° semestre de <strong>Sistemas de Informação</strong> na <strong>Universidade Federal Fluminense</strong>. Minha jornada na tecnologia começou desde a infância com projetos simples em python, o que me deu uma base sólida que hoje aplico com foco em desenvolvimento de software.</p>
+Sou um desenvolvedor Back-End e estudante do 2° semestre de <strong>Sistemas de Informação</strong> na <strong>Universidade Federal Fluminense</strong>. Minha jornada na tecnologia começou desde a infância com projetos simples em python, o que me deu uma base sólida que hoje aplico com foco em desenvolvimento de software.</p>
   </em> 
   <br>
 <div align= "center">
@@ -61,11 +61,6 @@ Sou uma desenvolvedor Back-End e estudante do 2° semestre de <strong>Sistemas d
   <br>
 </div>
 
-<div align="center">
-  <a href="https://github.com/krisnarane">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisnarane&layout=compact&langs_count=7&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&border_color=E94560"/>
-  </a>
-</div>
 
 <br>
 <br>
