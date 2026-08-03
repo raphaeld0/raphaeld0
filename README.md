@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou o Raphael Dias</h1>
+<h1 align="center">Oi, eu sou o Raphael</h1>
 <h3 align="center">Graduante de Sistemas de Informação | Back-End Developer</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
   <legend align="left"><h3>Sobre Mim</h3></legend>
 
   <em>
-Sou um desenvolvedor Back-End e estudante do 2° semestre de <strong>Sistemas de Informação</strong> na <strong>Universidade Federal Fluminense</strong>. Minha jornada na tecnologia começou desde a infância com projetos simples em python, o que me deu uma base sólida que hoje aplico com foco em desenvolvimento de software.</p>
+Sou um desenvolvedor Back-End e estudante do 3° semestre de <strong>Sistemas de Informação</strong> na <strong>Universidade Federal Fluminense</strong>. Minha jornada na tecnologia começou desde a infância com projetos simples em python, o que me deu uma base sólida que hoje aplico com foco em desenvolvimento de software.</p>
   </em> 
   <br>
 <div align= "center">
