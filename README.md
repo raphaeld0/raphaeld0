@@ -1,5 +1,5 @@
-<h1 align="center">Oi, eu sou o Raphael</h1>
-<h3 align="center">Graduante de Sistemas de Informação | Back-End Developer</h3>
+<h1 align="center">Hi, I'm Raphael</h1>
+<h3 align="center">Information Systems Undergraduate | Back-End Developer</h3>
 
 <p align="center">
   <a href="mailto:r.cacadordias@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -8,14 +8,14 @@
 
 <div align="left">
 <fieldset style="border: 2px solid #000000; border-radius: 10px; padding: 20px; max-width: 800px;">
-  <legend align="left"><h3>Sobre Mim</h3></legend>
+  <legend align="left"><h3>About Me</h3></legend>
 
   <em>
-Sou um desenvolvedor Back-End e estudante do 3° semestre de <strong>Sistemas de Informação</strong> na <strong>Universidade Federal Fluminense</strong>. Minha jornada na tecnologia começou desde a infância com projetos simples em python, o que me deu uma base sólida que hoje aplico com foco em desenvolvimento de software.</p>
+I am a Back-End Developer and a 3rd-semester <strong>Information Systems</strong> student at <strong>Fluminense Federal University (UFF)</strong>. My journey in technology began in childhood with simple Python projects, giving me a solid foundation that I apply today with a strong focus on software engineering.</p>
   </em> 
   <br>
 <div align= "center">
-   <b><i>Tecnologias em aprendizado</i></b> 
+    <b><i>Technologies I'm Learning</i></b> 
 </div>
 
 <br>
@@ -27,7 +27,7 @@ Sou um desenvolvedor Back-End e estudante do 3° semestre de <strong>Sistemas de
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-    <img width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />   
+    <img width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />    
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
   </kbd>
   <kbd>
@@ -39,14 +39,14 @@ Sou um desenvolvedor Back-End e estudante do 3° semestre de <strong>Sistemas de
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </kbd>
   <kbd>
-    <kbd>Library/FrameWorks</kbd>
+    <kbd>Libraries & Frameworks</kbd>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> 
     <img width="30px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" /> 
   </kbd>
   <kbd>
-    <kbd>Outros</kbd>
+    <kbd>Others</kbd>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />    
@@ -59,10 +59,9 @@ Sou um desenvolvedor Back-End e estudante do 3° semestre de <strong>Sistemas de
   <br>
 </div>
 
-
 <br>
 <br>
 
-- 📫 Contato: **r.cacadordias@gmail.com**
+- 📫 Contact: **r.cacadordias@gmail.com**
 
-<p align="center"> 
+<p align="center">
