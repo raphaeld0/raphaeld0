@@ -11,7 +11,7 @@
   <legend align="left"><h3>About Me</h3></legend>
 
   <em>
-I am a Back-End Developer and a 3rd-semester <strong>Information Systems</strong> student at <strong>Fluminense Federal University (UFF)</strong>. My journey in technology began in childhood with simple Python projects, giving me a solid foundation that I apply today with a strong focus on software engineering.</p>
+I am a Back-End Developer and a <strong>Information Systems</strong> student at <strong>Universidade Federal Fluminense</strong>. My journey in technology began in childhood with simple Python projects, giving me a solid foundation that I apply today with a strong focus on software engineering.</p>
   </em> 
   <br>
 <div align= "center">
