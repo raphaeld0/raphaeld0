@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Raphael</h1>
-<h3 align="center">Information Systems Undergraduate | Back-End Developer</h3>
+<h3 align="center">Information Systems Undergraduate | Full-Stack Developer</h3>
 
 <p align="center">
   <a href="mailto:r.cacadordias@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
