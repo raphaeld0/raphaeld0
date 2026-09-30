@@ -18,7 +18,7 @@
 <em>
 I'm a <strong>Full-Stack Developer</strong> and an <strong>Information Systems</strong> student at <strong>Universidade Federal Fluminense</strong>.
 
-My journey in technology began during childhood with small Python projects, which sparked my interest in software development and gave me a strong foundation that I continue building on today.
+My journey in technology began during childhood with small Python and Game Development projects, which sparked my interest in software development and gave me a strong foundation that I continue building on today.
 
 I'm especially interested in <strong>software engineering, backend development, cloud computing, Artificial Intelligence, and Machine Learning</strong>. I enjoy building applications while also understanding the architecture, scalability, databases, and infrastructure behind them. </em>
 
